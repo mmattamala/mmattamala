@@ -1,5 +1,5 @@
 ## Hi! I'm Matías
-I'm a Chilean roboticist 🇨🇱 🤖, currently in the final-year of my PhD at the [Oxford Robotics Institute](https://ori.ox.ac.uk). I currently work at the [Dynamic Robot Systems group](https://ori.ox.ac.uk/drs) helping legged robots navigate in challenging environments using vision. I'm broadly interested in perception and decision-making, as well as fundamental methods. I also enjoy teaching, and try to understand things deeply.
+I'm a Chilean roboticist 🇨🇱🤖 and final-year PhD student at the [Oxford Robotics Institute](https://ori.ox.ac.uk). I currently work at the [Dynamic Robot Systems group](https://ori.ox.ac.uk/drs) helping legged robots navigate in challenging environments using vision. I'm broadly interested in perception and decision-making, as well as fundamental methods. I also enjoy teaching, and try to understand things deeply.
 
 Online coordinates:
 - 💻 [Personal website](https://mmattamala.github.io)
