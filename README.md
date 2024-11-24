@@ -4,8 +4,9 @@ I'm a Chilean roboticist 🇨🇱🤖 and postdoctoral researcher at the [Oxford
 Online coordinates:
 - 💻 [Personal website](https://mmattamala.github.io)
 - 📄 [Publications](https://scholar.google.co.uk/citations?hl=en&user=R5aRkHUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
-- 🐦 [The T site](https://www.twitter.com/mmattamala)
-- 🐘 [The M site](https://sigmoid.social/@mmattamala)
+- 🐦 [Twitter](https://www.twitter.com/mmattamala)
+- 🐘 [Mastodon](https://sigmoid.social/@mmattamala)
+- 🦋 [Bluesky](https://mmattamala.bsky.social)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mmattamala/)
 
 <!---
