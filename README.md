@@ -7,7 +7,7 @@ I'm interested in the fundaments and systems for autonomy---from perception to d
 
 Online coordinates:
 - 💻 [Personal website](https://mmattamala.github.io)
-- 📄 [Publications](https://scholar.google.co.uk/citations?hl=en&user=R5aRkHUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
+- 📄 [Publications](https://scholar.google.co.uk/citations?hl=en&user=WYijA64AAAAJ&view_op=list_works&sortby=pubdate)
 - 🐦 [Twitter](https://www.twitter.com/mmattamala)
 - 🐘 [Mastodon](https://sigmoid.social/@mmattamala)
 - 🦋 [Bluesky](https://mmattamala.bsky.social)
